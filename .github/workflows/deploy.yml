@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      PROJECT_ROOT_DIRECTORY: skeleton_app
+      PROJECT_ROOT_DIRECTORY: ruckerpark
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2

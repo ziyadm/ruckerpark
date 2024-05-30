@@ -1,14 +1,4 @@
-# Skeleton App
-
-## Using this to build a new web app (delete this in new repo)
-
-1. Click the "Use this template" button at the top right of the page (or [this link](https://github.com/new?template_name=skeleton_app&template_owner=thadexplains)) to make a new repo based off this one.
-2. Update the app name in `frontend/package.json`.
-3. Update the web app name and description in `frontend/app/App.html`.
-4. Update the icons/logos in `frontend/public/{favicon.ico,icon.png}`.
-5. Update the project root directory name (wherever you cloned this repo to) in the `.github/workflows/deploy.yml:jobs.deploy.env` field.
-6. Update the app name and remove this section from the `README.md`.
-7. Run `docker-compose up --build` to make sure everything is working correctly.
+# Rucker Park
 
 ## Setup (keep this in the new repo)
 
